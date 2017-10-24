@@ -1,0 +1,27 @@
+{
+  "name": "@pedrofpc/node",
+  "version": "1.0.0",
+  "description": "\"Example of a json file for the purpouse of the freecodecamp course\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Filipe Custodio",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroFC/nodenpm.git"
+  },
+  "keywords": [
+    "{\"freecodecamp\"",
+    "\"pedrofpc\"",
+    "\"npm\"}"
+  ],
+  "bugs": {
+    "url": "https://github.com/PedroFC/nodenpm/issues"
+  },
+  "homepage": "https://github.com/PedroFC/nodenpm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
